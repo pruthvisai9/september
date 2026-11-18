@@ -31,6 +31,7 @@ if user_name=="pruthvi" and pin==1234:
             break
         else:
             print("Invalid Choice...please chooose (1-4)")
+            print("Please choose an appropriate options")
 else:
     print("Authentication failed...Invalid username or pin")
     print("Please check your username and pin number properly")
